@@ -24,6 +24,8 @@ Clone the repository:
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/your-project.git
+
+cd to_your_project_path
 ```
 
 Use docker compose to create the containers, compose them and run the server:
