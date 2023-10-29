@@ -6,8 +6,6 @@ This repository is a raw project template for Nginx, Django, Daphne, Postgres co
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
 - [Preview](#preview)
 
 ## Features
