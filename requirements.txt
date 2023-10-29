@@ -1,0 +1,4 @@
+Django
+# Package for working with postgres
+psycopg
+channels[daphne]
