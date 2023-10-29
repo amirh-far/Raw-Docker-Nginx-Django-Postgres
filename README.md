@@ -42,5 +42,4 @@ Https Ports:<br>
 
 <img src="https://github.com/amirh-far/Raw-Project-4-Docker-Nginx-Django-Postgres/blob/main/Readme.md%20images/Screenshot%201402-08-07%20at%201.43.58%20in%20the%20afternoon.png"/>
 <br>
-<br>
 You are ready to go!
