@@ -39,7 +39,7 @@ sudo docker compose up
 ```
 ## Preview
 
-After installation you should see the following page with 0.0.0.0 url using these ports: <br>
+After installation you should see the following page with 0.0.0.0 url using the following ports: <br>
 Http Ports:<br>
 80,8080,8880,2052,2082,2086,2095<br>
 Https Ports:<br>
