@@ -8,12 +8,6 @@
 </p>
 This repository is a raw project template for Nginx, Django, Daphne, Postgres composed with Docker
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Preview](#preview)
-
 ## Features
 - Uses Revese Proxy with Nginx 
 - Fully functional with Django
