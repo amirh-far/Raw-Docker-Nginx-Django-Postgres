@@ -16,7 +16,7 @@ This repository is a raw project template for Nginx, Django, Daphne, Postgres co
   
 ## Installation
 
-First off install Docker on your machine: [install docker](https://www.docker.com/products/docker-desktop/)
+First, install docker on your machine: [install docker](https://www.docker.com/products/docker-desktop/)
 
 Clone the repository:
 
